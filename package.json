@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Mirsaleh-ai/n8n-nodes-uspacy",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mirsaleh-ai/n8n-nodes-uspacy.git"
+    "url": "git+https://github.com/Mirsaleh-ai/n8n-nodes-uspacy.git"
   },
   "bugs": {
     "url": "https://github.com/Mirsaleh-ai/n8n-nodes-uspacy/issues"
